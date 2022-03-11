@@ -1,0 +1,7 @@
+c:\users\aldit\documents\visual studio 2010\Projects\AplikasiManajemenPenyewaanBarang\AplikasiManajemenPenyewaanBarang\bin\Debug\AplikasiManajemenPenyewaanBarang.exe
+c:\users\aldit\documents\visual studio 2010\Projects\AplikasiManajemenPenyewaanBarang\AplikasiManajemenPenyewaanBarang\bin\Debug\AplikasiManajemenPenyewaanBarang.pdb
+c:\users\aldit\documents\visual studio 2010\Projects\AplikasiManajemenPenyewaanBarang\AplikasiManajemenPenyewaanBarang\obj\x86\Debug\AplikasiManajemenPenyewaanBarang.Properties.Resources.resources
+c:\users\aldit\documents\visual studio 2010\Projects\AplikasiManajemenPenyewaanBarang\AplikasiManajemenPenyewaanBarang\obj\x86\Debug\AplikasiManajemenPenyewaanBarang.csproj.GenerateResource.Cache
+c:\users\aldit\documents\visual studio 2010\Projects\AplikasiManajemenPenyewaanBarang\AplikasiManajemenPenyewaanBarang\obj\x86\Debug\AplikasiManajemenPenyewaanBarang.exe
+c:\users\aldit\documents\visual studio 2010\Projects\AplikasiManajemenPenyewaanBarang\AplikasiManajemenPenyewaanBarang\obj\x86\Debug\AplikasiManajemenPenyewaanBarang.pdb
+c:\users\aldit\documents\visual studio 2010\Projects\AplikasiManajemenPenyewaanBarang\AplikasiManajemenPenyewaanBarang\obj\x86\Debug\AplikasiManajemenPenyewaanBarang.FrmLogin.resources
